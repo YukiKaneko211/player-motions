@@ -1,18 +1,29 @@
 # Player Motions
 
-Video game focuses on character's animations, mede by Unreal Engine 5. Since the project size is too big to upload here, the whole project is stored here: https://1drv.ms/f/c/cd99854cdd5e93e9/EtRZIeQPom1IovvPgkv6Fd8Bd8-nOfEV3VbzhcwMY_AuwQ?e=1GKfgI
+Video game focuses on character's animations, mede by Unreal Engine 5. 
+
+This app was created according to the requirements of kood/Jõhvi: https://github.com/01-edu/public/tree/master/subjects/gaming/army-of-one
+
+Since the project size is too big to upload here, only the parts of the project & .exe file are stored here: https://illuminatekmkz-my.sharepoint.com/:f:/g/personal/yuki_k_illuminatekmkz_onmicrosoft_com/IgDvmpijLjuWTJeDIQHgLixWAaIbmC0T0E7CiGATeL4JEgQ?e=b1JLNm
 
 ## Used Assed
-I used a lot of third party assets provided on Fab market place. Most of models and animations are not made by me. Check the list of downloaded assets in `Content` directory.
 
-## Installation & How to Play
-To play the game, you need to download the whole `Windows` directory and run `ArmyOfOne.exe` on Windows.
+I used assets provided by kood/Jõhvi.
 
-OR 
+## BluePrints
 
-You can check the test play video: https://youtu.be/m3H9lCkH3Uw?si=ey_xgo4YnK2LbRzk
+- [BP_TPSCharacter](https://blueprintue.com/blueprint/t1olczwk/)
+- [ABP_Countess](https://blueprintue.com/blueprint/5as3byc4/)
 
-## Project Process
-1. check and sort out the requirements for the app; https://github.com/01-edu/public/tree/master/subjects/gaming/army-of-one
-2. gather assets
-3. Blueprinting!
+## How to Play
+
+To play the game, execute `ArmyOfOne.exe` in the project folder.
+
+- Move forward, backward, left and right using the WASD keys.
+- Look around and change direction using the mouse.
+- Jump using Space.
+- Attack using the left mouse click.
+
+You can also check the test play video.
+
+[![video](https://img.youtube.com/vi/m3H9lCkH3Uw/maxresdefault.jpg)](https://youtu.be/m3H9lCkH3Uw)
